@@ -27,9 +27,7 @@ function Home() {
                     description="Comfortable private places, with room for friends or family."
                     price="£90/night"
                 />
-            </div>
-
-            <div className='home_section'>
+            
                 <Card
                     src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
                     title="3 Bedroom Flat in Bournemouth"
