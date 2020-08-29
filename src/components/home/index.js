@@ -1,6 +1,6 @@
 import React from 'react';
-import './Home.css';
-import Banner from '../banner/Banner';
+import './style.css';
+import Banner from '../banner';
 
 function Home() {
     return (

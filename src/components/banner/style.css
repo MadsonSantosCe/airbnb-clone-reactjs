@@ -7,7 +7,7 @@
   .banner_info {
       background-color: black;
       color: white;
-      padding-top: 26vh;
+      padding-top: 23vh;
       padding-left: 50px;
       padding-right: 50px;
       padding-bottom: 40px;
@@ -30,7 +30,7 @@
       background-color: #ff7779;
       color: white;
       text-transform: inherit;
-      margin-top: 26px;
+      margin-top: 20px;
       font-weight: 600;
   }
   
