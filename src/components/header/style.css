@@ -40,3 +40,7 @@
     width: 15vw;
     margin-right: 80px;
   }
+
+  .header_logo a{
+    cursor: pointer;
+  }
